@@ -12,23 +12,25 @@ header{
     background:#FEDF32;
     height: 35px;
     display: flex;
+    justify-content: center;
 }
 
 header .container{
-    width: 100px;
-    height: 100px;
+    width: 80px;
+    height: 80px;
     
     padding:10px;
     background: #FEDF32;
     border-radius: 100px;
     display: flex;
     
+
 }
 
-header .container img{
+img{
 
     width:100%;
-    height:50%
+   
 }
 main{
     height: 80vh;
