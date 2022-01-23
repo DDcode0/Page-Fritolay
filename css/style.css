@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    color:#fff;
 }
 
 body {
@@ -48,4 +49,32 @@ footer{
 
 span{
     color:white;
+    vertical-align: middle;
 }
+
+.container-icon{
+    display: inline-table;
+    width: 100px;
+    height: auto;
+    align-items: center;
+    
+}
+
+
+img{
+    width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container_main{
+   
+    margin: 100px;
+    width: 100%;
+
+}
+
+h2{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
