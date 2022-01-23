@@ -44,5 +44,10 @@ footer{
     height:110px;
     background: #FEDF32;
 }
+footer {
+    padding: 10px;
+}
 
-
+footer p {
+    margin-bottom: 10px;
+}
