@@ -45,6 +45,9 @@ footer{
     height:110px;
     background: #FEDF32;
 }
+footer {
+    padding: 10px;
+}
 
 
 span{
@@ -78,3 +81,6 @@ h2{
     margin-bottom: 30px;
 }
 
+footer p {
+    margin-bottom: 10px;
+}
